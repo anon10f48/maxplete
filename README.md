@@ -1,1 +1,2 @@
-# maxplete
+# Maxplete
+Personal-related files
