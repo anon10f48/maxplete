@@ -1,2 +1,2 @@
 # Maxplete
-Personal-related files
+Personal-related scripts
