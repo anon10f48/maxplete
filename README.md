@@ -1,6 +1,5 @@
 # Maxplete
 Personal-related scripts
-<<<<<<< HEAD
 
 Pull request (git pull) -> Write code-> Stage changes (git add) -> Commit changes (git commit) -> Push changes (git push)
 
@@ -11,6 +10,9 @@ git branch
 
 #Create new branch
 git checkout -b dev-moh
+
+#Delete branch
+git branch -d dev-moh
 
 #Move branch
 git checkout main
@@ -40,5 +42,10 @@ git push -u origin main
 #Initialiaze a new Git folder
 git init
 git remote add origin https://github.com/anon10f48/coc.git
-=======
->>>>>>> 8910a77269f2f7199aa267df75df67dabb258619
+
+#Pull the latest files from main
+git pull origin master # if not upstream is defined
+git pull
+
+#Commit for file that already been added and newly created files
+git commit -am "Modfied file"
