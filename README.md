@@ -13,7 +13,14 @@ git checkout -b dev-moh
 
 #Move branch
 git checkout main
-git 
+
+#Compare dif
+git diff dev-moh
+
+#Push branch to Github
+git push --set-upstream origin dev-moh
+
+
 #Clone repo
 git clone https://github.com/anon10f48/maxplete.git
 
