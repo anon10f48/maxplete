@@ -1,5 +1,6 @@
 # Maxplete
 Personal-related scripts
+<<<<<<< HEAD
 
 Pull request (git pull) -> Write code-> Stage changes (git add) -> Commit changes (git commit) -> Push changes (git push)
 
@@ -39,3 +40,5 @@ git push -u origin main
 #Initialiaze a new Git folder
 git init
 git remote add origin https://github.com/anon10f48/coc.git
+=======
+>>>>>>> 8910a77269f2f7199aa267df75df67dabb258619
